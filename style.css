@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+
+}
+.card{
+    background-color: gray;
+    padding: 20px 15px
+ 
+
+}
+ 
+
+
+
+
+
+
+
+
+
+
